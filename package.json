@@ -1,0 +1,10 @@
+{
+  "author": "Charlie Gleason",
+  "private": true,
+  "name": "tweetflight-client",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "yeoman": "*"
+  }
+}
